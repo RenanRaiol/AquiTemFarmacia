@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "AquiTemFarmacia",
+    "slug": "aquitemfarmacia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/logo.png",
+    "android": {
+      "package": "br.com.aquitemfarmacia.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#F4F8FF"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "br.com.aquitemfarmacia.app",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
